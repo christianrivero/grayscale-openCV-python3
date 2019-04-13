@@ -9,3 +9,5 @@ Ver versión con:
 Versión instalada: 4.1.0
 
 Referencia de OpenCV en B/N: http://acodigo.blogspot.com/2017/06/introduccion-opencv-python.html
+
+IDE: PyCharm 2019.1
